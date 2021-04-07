@@ -9,6 +9,7 @@
 * [touch.js](https://github.com/Clouda-team/touch.code.baidu.com.git) 百度移动设备上的手势识别与事件库
 * [hammer.js](https://github.com/hammerjs/hammer.js.git) 一个多点触控手势的JavaScript库
 * [quo.js](https://github.com/soyjavi/QuoJS.git) JavaScript手势库
+* [swiper.js](https://www.swiper.com.cn) 纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端
 
 ## CSS重置
 * [normalize.css](https://github.com/necolas/normalize.css.git)
